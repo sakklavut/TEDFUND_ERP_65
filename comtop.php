@@ -16,6 +16,10 @@
      <link href="assets/css/banner.css" rel="stylesheet">
      <link href="assets/css/new.css" rel="stylesheet">
      <link href="assets/css/footer.css" rel="stylesheet">
+     <link href="assets/css/application_form.css" rel="stylesheet">
+     <link href="assets/css/faq.css" rel="stylesheet">
+     <link href="assets/css/practice.css" rel="stylesheet">
+    
      <!-- carousel -->
     <link rel="stylesheet" href="assets/css/owl.carousel.min.css">
     <link rel="stylesheet" href="assets/css/owl.theme.default.min.css">

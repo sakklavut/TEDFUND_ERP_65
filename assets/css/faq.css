@@ -1,0 +1,17 @@
+.title_faq {
+     margin: 0px;
+     font-size: 14px;
+ }
+ .detail_faq{
+     margin: 0px;
+     font-size: 14px; 
+ }
+
+ @media (min-width: 1024px) { 
+     .title_faq {
+          font-size: 18px;
+      }
+      .detail_faq{
+          font-size: 18px; 
+      }
+  }

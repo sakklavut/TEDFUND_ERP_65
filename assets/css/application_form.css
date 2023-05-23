@@ -1,0 +1,19 @@
+:root{
+     --nag_color:#33966f;
+     --nag_color_hover:#127c53;
+}
+.bg_application_form{
+     background-color: #4d4d4d;
+     color: #fff;
+     padding-top: 20px;
+     padding-bottom: 20px; 
+}
+.nag_link{
+     color: var(--nag_color); 
+     text-decoration: none;
+}
+.nag_link:hover{
+     color: var(--nag_color_hover);
+}
+
+
