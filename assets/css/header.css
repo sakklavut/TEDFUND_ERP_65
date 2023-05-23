@@ -1,0 +1,20 @@
+:root{
+     --bg-main: url(../image/header.png);
+}
+.header{
+     background-image: var(--bg-main);
+     background-position: center;
+     background-repeat: no-repeat;
+     background-size: cover;
+     width: 100%;
+ }
+ .logo{
+     width: 95px;
+     height: 40px;
+ }
+ .navbar-nav .nav-link.active, .navbar-nav .nav-link.show {
+    color: #33966f;
+}
+.nav-link:hover{
+    color: #33966f;
+}

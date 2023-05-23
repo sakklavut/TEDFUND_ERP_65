@@ -1,0 +1,114 @@
+:root{
+     --detail_button: #33966f;
+     --border_button: #33966f;
+     --text-btn-detail:#fff;
+     --detail_button_hover:#127c53;
+     --border_button_hover:#127c53;
+     --icon_new:#33966f;
+     --text_pagination:#33966f;
+     --text_pagination_hover:#127c53;
+}
+
+.heading-line1 {
+     width: 100px;
+     height: 10px;
+     display: inline-block;
+     background-color: #33966f;
+     vertical-align: top;
+ }
+ .new{
+     list-style: none;
+     padding: 0px;
+ }
+ .detail_button {
+     width: 100%;
+     color: var(--text-btn-detail);
+     background: var(--detail_button);
+     border-color: var(--border_button);
+ }
+ .detail_button:hover {
+     width: 100%;
+     color: var(--text-btn-detail);
+     background: var(--detail_button_hover);
+     border-color: var(--border_button_hover);
+ }
+ .box_new{
+    transition: all ease-in-out 0.9s;
+ }
+ .box_new:hover{
+    transform: scale(0.9);
+ }
+ .icon_new{
+    color: var(--icon_new);
+ }
+ .text_pagination{
+    color: var(--text_pagination);
+ }
+ .text_pagination:hover{
+    color: var(--text_pagination_hover);
+ }
+ .active>.page-link, .page-link.active {
+    background-color: var(--border_button);
+    border-color: var(--border_button);
+}
+.text_new{
+   font-size: 15px;
+}
+
+@media (min-width: 768px) { 
+   .detail_button {
+      font-size: 13px;
+  }
+  .box_details_new{
+      display: flex;
+  }
+  .box_detils_startday{
+      width: 173px;
+  }
+  .box_detils_starttime{
+      width: 100px;
+  }
+  .box_detils_endday{
+      width: 173px;
+  }
+  .box_detils_endtime{
+      width: 100px;
+  }
+  .text_new {
+   font-size: 14px;
+   }
+}
+@media (min-width: 1024px) { 
+   .detail_button {
+      font-size: 13px;
+  }
+  .text_new {
+      font-size: 16px;
+  }
+  .box_detils_startday{
+      width: 200px;
+   }
+   .box_detils_starttime{
+      width: 115px;
+   }
+   .box_detils_endday{
+      width: 200px;
+   }
+   .box_detils_endtime{
+      width: 115px;
+   }
+   .nav-link{
+      font-size: 15px;
+   }
+}
+@media (min-width: 1440px) { 
+   .detail_button {
+      font-size: 16px;
+  }
+  .text_new {
+      font-size: 16px;
+  }
+  .nav-link{
+      font-size: 18px;
+   }
+}
