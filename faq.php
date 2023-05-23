@@ -35,7 +35,7 @@
                          <div id="flush-collapseOne" class="accordion-collapse collapse" aria-labelledby="flush-headingOne" data-bs-parent="#accordionFlushExample">
                               <div class="accordion-body">
                                   <p class="detail_faq">
-                                        ผู้สมัครต้องตรวจสอบความถูกต้องก่อนยืนยันเพื่อส่งใบสมัคร เนื่องจากเมื่อยืนยันการส่ง สมัครแล้ว รฟม. ขอสวนสิทธิ์ไม่อนุญาตให้แก้ไขโดยเด็ดขาดไม่ว่ากรณีใด ๆ ทั้งสิ้น
+                                        ผู้สมัครต้องตรวจสอบความถูกต้องก่อนยืนยันเพื่อส่งใบสมัคร เนื่องจากเมื่อยืนยันการส่ง สมัครแล้ว TED ขอสวนสิทธิ์ไม่อนุญาตให้แก้ไขโดยเด็ดขาดไม่ว่ากรณีใด ๆ ทั้งสิ้น
                                   </p> 
                               </div>
                          </div>
@@ -50,7 +50,7 @@
                          <div id="flush-collapseTwo" class="accordion-collapse collapse" aria-labelledby="flush-headingTwo" data-bs-parent="#accordionFlushExample">
                               <div class="accordion-body">
                                    <p class="detail_faq">
-                                        ผู้สมัครต้องตรวจสอบความถูกต้องก่อนยืนยันเพื่อส่งใบสมัคร เนื่องจากเมื่อยืนยันการส่ง สมัครแล้ว รฟม. ขอสวนสิทธิ์ไม่อนุญาตให้แก้ไขโดยเด็ดขาดไม่ว่ากรณีใด ๆ ทั้งสิ้น
+                                        ผู้สมัครต้องตรวจสอบความถูกต้องก่อนยืนยันเพื่อส่งใบสมัคร เนื่องจากเมื่อยืนยันการส่ง สมัครแล้ว TED ขอสวนสิทธิ์ไม่อนุญาตให้แก้ไขโดยเด็ดขาดไม่ว่ากรณีใด ๆ ทั้งสิ้น
                                   </p> 
                               </div>
                          </div>
@@ -65,7 +65,7 @@
                          <div id="flush-collapseThree" class="accordion-collapse collapse" aria-labelledby="flush-headingThree" data-bs-parent="#accordionFlushExample">
                               <div class="accordion-body">
                                    <p class="detail_faq">
-                                        ผู้สมัครต้องตรวจสอบความถูกต้องก่อนยืนยันเพื่อส่งใบสมัคร เนื่องจากเมื่อยืนยันการส่ง สมัครแล้ว รฟม. ขอสวนสิทธิ์ไม่อนุญาตให้แก้ไขโดยเด็ดขาดไม่ว่ากรณีใด ๆ ทั้งสิ้น
+                                        ผู้สมัครต้องตรวจสอบความถูกต้องก่อนยืนยันเพื่อส่งใบสมัคร เนื่องจากเมื่อยืนยันการส่ง สมัครแล้ว TED ขอสวนสิทธิ์ไม่อนุญาตให้แก้ไขโดยเด็ดขาดไม่ว่ากรณีใด ๆ ทั้งสิ้น
                                   </p> 
                               </div>
                          </div>
@@ -80,7 +80,7 @@
                          <div id="flush-collapse_4" class="accordion-collapse collapse" aria-labelledby="flush-heading_4" data-bs-parent="#accordionFlushExample">
                               <div class="accordion-body">
                                    <p class="detail_faq">
-                                        ผู้สมัครต้องตรวจสอบความถูกต้องก่อนยืนยันเพื่อส่งใบสมัคร เนื่องจากเมื่อยืนยันการส่ง สมัครแล้ว รฟม. ขอสวนสิทธิ์ไม่อนุญาตให้แก้ไขโดยเด็ดขาดไม่ว่ากรณีใด ๆ ทั้งสิ้น
+                                        ผู้สมัครต้องตรวจสอบความถูกต้องก่อนยืนยันเพื่อส่งใบสมัคร เนื่องจากเมื่อยืนยันการส่ง สมัครแล้ว TED ขอสวนสิทธิ์ไม่อนุญาตให้แก้ไขโดยเด็ดขาดไม่ว่ากรณีใด ๆ ทั้งสิ้น
                                   </p> 
                               </div>
                          </div>
@@ -95,7 +95,7 @@
                          <div id="flush-collapse_5" class="accordion-collapse collapse" aria-labelledby="flush-heading_5" data-bs-parent="#accordionFlushExample">
                               <div class="accordion-body">
                                    <p class="detail_faq">
-                                        ผู้สมัครต้องตรวจสอบความถูกต้องก่อนยืนยันเพื่อส่งใบสมัคร เนื่องจากเมื่อยืนยันการส่ง สมัครแล้ว รฟม. ขอสวนสิทธิ์ไม่อนุญาตให้แก้ไขโดยเด็ดขาดไม่ว่ากรณีใด ๆ ทั้งสิ้น
+                                        ผู้สมัครต้องตรวจสอบความถูกต้องก่อนยืนยันเพื่อส่งใบสมัคร เนื่องจากเมื่อยืนยันการส่ง สมัครแล้ว TED ขอสวนสิทธิ์ไม่อนุญาตให้แก้ไขโดยเด็ดขาดไม่ว่ากรณีใด ๆ ทั้งสิ้น
                                   </p> 
                               </div>
                          </div>

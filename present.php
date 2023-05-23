@@ -34,8 +34,7 @@
                                         </div>
                                         <div>
                                              <div class="d-flex">
-                                                       <p class="me-2 m-0">ข้อปฏิบัติในการรายงานตัว</p>
-                                                       <a href="#"><i class="fa-solid fa-download icon_new"></i></a>
+                                                  <a href="#"> <spen class="me-2 m-0 text_practice">ข้อปฏิบัติในการรายงานตัว</spen> <i class="fa-solid fa-download icon_new"></i></a>
                                              </div>
                                         </div>
                                    </div>
@@ -57,8 +56,7 @@
                                         </div>
                                         <div>
                                              <div class="d-flex">
-                                                       <p class="me-2 m-0">ข้อปฏิบัติในการรายงานตัว</p>
-                                                       <a href="#"><i class="fa-solid fa-download icon_new"></i></a>
+                                                  <a href="#"> <spen class="me-2 m-0 text_practice">ข้อปฏิบัติในการรายงานตัว</spen> <i class="fa-solid fa-download icon_new"></i></a>
                                              </div>
                                         </div>
                                    </div>
@@ -80,8 +78,7 @@
                                         </div>
                                         <div>
                                              <div class="d-flex">
-                                                       <p class="me-2 m-0">ข้อปฏิบัติในการรายงานตัว</p>
-                                                       <a href="#"><i class="fa-solid fa-download icon_new"></i></a>
+                                                   <a href="#"> <spen class="me-2 m-0 text_practice">ข้อปฏิบัติในการรายงานตัว</spen> <i class="fa-solid fa-download icon_new"></i></a>
                                              </div>
                                         </div>
                                    </div>

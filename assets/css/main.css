@@ -3,3 +3,9 @@ body{
      font-size: 18px;
      font-family: 'Prompt', sans-serif;
 }
+A:link {
+     text-decoration:none;
+}
+A:visited {
+     text-decoration:none;
+}

@@ -47,6 +47,16 @@
  .text_pagination:hover{
     color: var(--text_pagination_hover);
  }
+
+
+ .text_practice{
+   color: var(--bs-secondary-color);
+   text-decoration: none;
+}
+.text_practice:hover{
+   color: var(--bs-secondary-color);
+   text-decoration: none;
+}
  .active>.page-link, .page-link.active {
     background-color: var(--border_button);
     border-color: var(--border_button);
