@@ -1,4 +1,54 @@
 <div class="container">
+     <div class="row mt-5">
+          <div class="col-xl-4 col-sm-4">
+               <a href="application_form.php" target="_blank">
+                    <div class="shadow-sm p-3 box mb-2  rounded box_new_1">
+                         <div class="row">
+                              <div class="col-xl-12 text-center">
+                                   <img src="assets/images/box1.png" class="img_box" alt="">
+                              </div>
+                         </div>
+                         <div class="row">
+                              <div class="col-xl-12 text-center text-white">
+                                   <h4>สมัครสอบ</h4>
+                              </div>
+                         </div>
+                    </div>
+               </a>
+          </div>
+          <div class="col-xl-4 col-sm-4">
+               <a href="faq.php" target="_blank">
+                    <div class="shadow-sm p-3 box mb-2  rounded box_new_1">
+                         <div class="row">
+                              <div class="col-xl-12 text-center">
+                                   <img src="assets/images/box2.png" class="img_box" alt="">
+                              </div>
+                         </div>
+                         <div class="row">
+                              <div class="col-xl-12 text-center text-white">
+                                   <h4>สารพันปัณหา (FAQ)</h4>
+                              </div>
+                         </div>
+                    </div>
+               </a>
+          </div>
+          <div class="col-xl-4 col-sm-4">
+               <a href="status.php" target="_blank">
+                    <div class="shadow-sm p-3 box mb-2  rounded box_new_1">
+                         <div class="row">
+                              <div class="col-xl-12 text-center">
+                                   <img src="assets/images/box3.png" class="img_box" alt="">
+                              </div>
+                         </div>
+                         <div class="row">
+                              <div class="col-xl-12 text-center text-white">
+                                   <h4>ตรวจสอบสถานนะ</h4>
+                              </div>
+                         </div>
+                    </div>
+               </a>
+          </div>
+     </div>
      <div class="row">
           <div class="col-xl-12 mt-4">
                <h4>
@@ -47,7 +97,9 @@
                               </div>
                          </div>
                          <div class="col-12 col-xl-2 col-md-2">
-                                <button type="button" class="btn detail_button ">รายละเอียด</button>
+                              <button type="button" class="btn detail_button ">
+                                   <a href="application_form.php" target="_blank"  class="text-white">รายละเอียด</a>   
+                              </button>
                          </div>
                     </div> 
                 </div>
@@ -93,7 +145,9 @@
                               </div>
                          </div>
                          <div class="col-12 col-xl-2 col-md-2">
-                                <button type="button" class="btn detail_button ">รายละเอียด</button>
+                              <button type="button" class="btn detail_button ">
+                                   <a href="application_form.php" target="_blank"  class="text-white">รายละเอียด</a>   
+                              </button>
                          </div>
                     </div> 
                 </div>
@@ -139,7 +193,9 @@
                               </div>
                          </div>
                          <div class="col-12 col-xl-2 col-md-2">
-                                <button type="button" class="btn detail_button ">รายละเอียด</button>
+                              <button type="button" class="btn detail_button ">
+                                   <a href="application_form.php" target="_blank"  class="text-white">รายละเอียด</a>   
+                              </button>
                          </div>
                     </div> 
                 </div>
@@ -185,7 +241,9 @@
                               </div>
                          </div>
                          <div class="col-12 col-xl-2 col-md-2">
-                                <button type="button" class="btn detail_button ">รายละเอียด</button>
+                              <button type="button" class="btn detail_button ">
+                                   <a href="application_form.php" target="_blank"  class="text-white">รายละเอียด</a>   
+                              </button>
                          </div>
                     </div> 
                 </div>
@@ -231,7 +289,9 @@
                               </div>
                          </div>
                          <div class="col-12 col-xl-2 col-md-2">
-                                <button type="button" class="btn detail_button ">รายละเอียด</button>
+                              <button type="button" class="btn detail_button ">
+                                   <a href="application_form.php" target="_blank"  class="text-white">รายละเอียด</a>   
+                              </button>
                          </div>
                     </div> 
                 </div>

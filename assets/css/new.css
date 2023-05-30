@@ -38,6 +38,22 @@
  .box_new:hover{
     transform: scale(0.9);
  }
+
+ .box_new_1{
+   transition: all ease-in-out 0.9s;
+   background-color: var(--detail_button_hover);
+   height: auto;
+}
+.box_new_1:hover{
+   transform: scale(0.9);
+   background-color: var(--border_button_hover);
+   height: auto;
+}
+
+.img_box{
+   width: 70%;
+   height: auto;
+}
  .icon_new{
     color: var(--icon_new);
  }

@@ -12,7 +12,7 @@
                          <li class="nav-item">
                               <a class="nav-link active" aria-current="page" href="index.php">หน้าหลัก</a>
                          </li>
-                         <li class="nav-item">
+                         <!-- <li class="nav-item">
                               <a class="nav-link" href="application_form.php">สมัครสอบ</a>
                          </li>
                          <li class="nav-item">
@@ -20,7 +20,7 @@
                          </li>
                          <li class="nav-item">
                               <a class="nav-link" href="status.php">ตรวจสอบสถานนะ</a>
-                         </li>
+                         </li> -->
                          <li class="nav-item">
                               <a class="nav-link" href="practice.php">ข้อปฏิบัติสำหรับผู้เข้าสอบ</a>
                          </li>
